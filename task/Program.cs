@@ -30,19 +30,19 @@ class Program
                     Console.WriteLine("   \n  |\n  |");
                     break;
                 case 2:
-                    Console.WriteLine(" _ \n|_ \n _|\n");
+                    Console.WriteLine(" _ \n|_ \n _|");
                     break;
                 case 3:
                     Console.WriteLine(" _ \n _|\n _|\n");
                     break;
                 case 4:
-                    Console.WriteLine(" _| \n| | \n  ");
+                    Console.WriteLine("\n _|\n| |");
                     break;
                 case 5:
-                    Console.WriteLine(" _ \n |\n| ");
+                    Console.WriteLine(" _ \n _|\n|_ ");
                     break;
                 case 6:
-                    Console.WriteLine(" _ \n||\n|\n");
+                    Console.WriteLine(" _\n|_|\n|_");
                     break;
                 case 7:
                     Console.WriteLine(" |\n_|\n");
@@ -51,7 +51,7 @@ class Program
                     Console.WriteLine(" _ \n||\n||");
                     break;
                 case 9:
-                    Console.WriteLine(" \n _|\n|| ");
+                    Console.WriteLine(" _\n _|\n|_|");
                     break;
             }
             input = (int)(input % Math.Pow(10, n));
@@ -75,16 +75,16 @@ class Program
                     Console.WriteLine(" _ \n|_ \n _|");
                     break;
                 case 3:
-                    Console.WriteLine(" \n|\n|_");
+                    Console.WriteLine(" _\n|_\n|_");
                     break;
                 case 4:
-                    Console.WriteLine("|_|\n|\n");
+                    Console.WriteLine("\n|_|\n|");
                     break;
                 case 5:
-                    Console.WriteLine(" _ \n |\n| ");
+                    Console.WriteLine(" _ \n _|\n|_ ");
                     break;
                 case 6:
-                    Console.WriteLine(" _ \n |\n|| ");
+                    Console.WriteLine(" _\n _|\n|_|");
                     break;
                 case 7:
                     Console.WriteLine(" _\n|\n| ");
@@ -93,7 +93,7 @@ class Program
                     Console.WriteLine(" _ \n||\n||");
                     break;
                 case 9:
-                    Console.WriteLine(" \n||\n|_");
+                    Console.WriteLine(" _\n|_|\n|_");
                     break;
             }
             input = (int)(input % Math.Pow(10, n));
@@ -114,7 +114,7 @@ class Program
                     Console.WriteLine("   \n  |\n  |");
                     break;
                 case 2:
-                    Console.WriteLine(" _ \n |\n| ");
+                    Console.WriteLine(" _ \n _|\n|_ ");
                     break;
                 case 3:
                     Console.WriteLine(" _ \n _|\n _|");
