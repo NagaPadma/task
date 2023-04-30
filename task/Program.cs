@@ -48,7 +48,7 @@ class Program
                     Console.WriteLine(" |\n_|\n");
                     break;
                 case 8:
-                    Console.WriteLine(" _ \n||\n||");
+                    Console.WriteLine(" _ \n|_|\n|_|");
                     break;
                 case 9:
                     Console.WriteLine(" _\n _|\n|_|");
@@ -90,7 +90,7 @@ class Program
                     Console.WriteLine(" _\n|\n| ");
                     break;
                 case 8:
-                    Console.WriteLine(" _ \n||\n||");
+                    Console.WriteLine(" _ \n|_|\n|_|");
                     break;
                 case 9:
                     Console.WriteLine(" _\n|_|\n|_");
@@ -132,7 +132,7 @@ class Program
                     Console.WriteLine(" _ \n  |\n  |");
                     break;
                 case 8:
-                    Console.WriteLine(" _ \n||\n||");
+                    Console.WriteLine(" _ \n|_|\n|_|");
                     break;
                 case 9:
                     Console.WriteLine(" _ \n|_|\n _|");
